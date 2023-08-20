@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aaron\OneDrive\Desktop\SOE\solid-octo-enigma\Engine\build\CMakeFiles\49957fb41d6b042c04be54fde9871ac9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F0A03260-A725-34E8-95B6-0BE1DA5ED262}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

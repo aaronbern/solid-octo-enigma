@@ -1,0 +1,10 @@
+^C:\USERS\AARON\ONEDRIVE\DESKTOP\SOE\SOLID-OCTO-ENIGMA\BUILD\CMAKEFILES\F800247DE883C4B1A9DE8D037F5B2EA6\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/aaron/OneDrive/Desktop/SOE/solid-octo-enigma/Engine -BC:/Users/aaron/OneDrive/Desktop/SOE/solid-octo-enigma/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/aaron/OneDrive/Desktop/SOE/solid-octo-enigma/build/AbyssEngine.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

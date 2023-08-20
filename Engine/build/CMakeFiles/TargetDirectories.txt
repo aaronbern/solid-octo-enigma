@@ -1,0 +1,3 @@
+C:/Users/aaron/OneDrive/Desktop/SOE/solid-octo-enigma/Engine/build/CMakeFiles/AbyssEngine.dir
+C:/Users/aaron/OneDrive/Desktop/SOE/solid-octo-enigma/Engine/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/aaron/OneDrive/Desktop/SOE/solid-octo-enigma/Engine/build/CMakeFiles/ZERO_CHECK.dir
